@@ -43,7 +43,7 @@ body {
      </p>
 <br>
 <iframe src= "https://thingspeak.com/channels/1458434/maps/channel_show" width="450" height="260"> </iframe>
-<body onload="JavaScript:timedRefresh(10000);">
+<body onload="JavaScript:timedRefresh(15000);">
 </body>
 </html>
 
