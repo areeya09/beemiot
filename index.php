@@ -1,7 +1,7 @@
 <h2> <center> Areeya Chanakan 62111760 </h2><br> <center>
 <iframe src= "https://thingspeak.com/channels/1458434/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" width="450" height="260" itle="HUMIDITY"></iframe>
 
-         <p style="font-size:50px;font:bold;"> 
+         <p style="font-size:30px;font:bold;"> 
      <?php
         $api_url = 'https://api.thingspeak.com/channels/1458411/fields/1.json?results=1';
         $json_data = file_get_contents($api_url);
@@ -17,7 +17,7 @@
 <br>
 <iframe src= "https://thingspeak.com/channels/1458434/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" width="450" height="260" title="TEMPERATURE"> </iframe>
       
-           <p style="font-size:50px;font:bold;"> 
+           <p style="font-size:30px;font:bold;"> 
      <?php
         $api_url = 'https://api.thingspeak.com/channels/1458411/fields/2.json?results=1';
         $json_data = file_get_contents($api_url);
@@ -29,6 +29,7 @@
              echo " C"; 
          }
         ?>
+     </p>
 <br>
 <iframe src= "https://thingspeak.com/channels/1458434/maps/channel_show" width="450" height="260"> </iframe>
 </body>
