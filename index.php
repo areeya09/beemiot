@@ -2,6 +2,7 @@
   <head>
 <style>
 body {
+  
   background-color: LightBlue;
 }
 </style>
