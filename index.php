@@ -45,6 +45,12 @@ body {
   
 <br>
 <iframe src= "https://thingspeak.com/channels/1458434/maps/channel_show" width="450" height="260"> </iframe>
+<script type="text/JavaScript">
+function timedRefresh(timeoutPeriod) {
+    setTimeout("location.reload(true);",timeoutPeriod);
+}
+</script>
+</head>
 <body onload="JavaScript:timedRefresh(5000);">
 </body>
 </html>
