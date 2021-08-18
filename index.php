@@ -7,10 +7,6 @@ body {
 </style>
 </head>
 <body>
-
-
-<p>The background color can be specified with a color name.</p>
-
 </body>
 </html>
 
