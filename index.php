@@ -10,7 +10,7 @@ body {
 </body>
 </html>
 
-<iframe src= "https://thingspeak.com/channels/1458434/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" width="450" height="260" itle="HUMIDITY"></iframe>
+<iframe src= "https://thingspeak.com/channels/1458434/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" width="450" height="260" > </iframe>
 
          <p style="font-size:30px;font:bold;"> 
      <?php
@@ -26,7 +26,7 @@ body {
         ?>
      </p>
 <br>
-<iframe src= "https://thingspeak.com/channels/1458434/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" width="450" height="260" title="TEMPERATURE"> </iframe>
+<iframe src= "https://thingspeak.com/channels/1458434/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" width="450" height="260"> </iframe>
       
            <p style="font-size:30px;font:bold;"> 
      <?php
