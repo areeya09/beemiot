@@ -1,4 +1,4 @@
-<h2> <center> Areeya Chanakan 62111760 </h2><br> <center>
+<h1> <center> Areeya Chanakan 62111760 </h1><br> <center>
 <iframe src= "https://thingspeak.com/channels/1458434/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" width="450" height="260" itle="HUMIDITY"></iframe>
 
          <p style="font-size:30px;font:bold;"> 
