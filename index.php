@@ -8,7 +8,6 @@ body {
 </head>
 <body>
 
-<h1>The background-color Property</h1>
 
 <p>The background color can be specified with a color name.</p>
 
